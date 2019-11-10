@@ -1,0 +1,70 @@
+html{
+    margin-left: -7px;
+    overflow-x: hidden ;
+}
+.title{
+    width: 83px;
+    height: 26px;
+    background: url("img/Circle.png") no-repeat;
+}
+.top{
+    width: 1300px;
+    height: 910px;
+    background: url("img/top.png") no-repeat;
+    margin: -199px auto;
+    padding-top: 250px;
+    padding-left: 218px;
+    background-size: contain;
+}
+.top-topMenu{
+    display: flex;
+}
+.phone{
+    width: 137px;
+    height: 12px;
+    background: url("img/phone.png") no-repeat;
+    margin-top: 10px;
+    margin-left: 71px;
+}
+.buy a{
+    color: #ffffff;
+    margin-top: 10px;
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 700px;
+    border-bottom: 1px solid #ffffff;
+}
+.menuIcon{
+    width: 24px;
+    height: 12px;
+    background: url("img/Menu.png") no-repeat;
+    margin-top: 5px;
+    margin-left: 38px;
+}
+.botMenu{
+    margin-top: 250px;
+}
+.titl{
+    font-size: 60px;
+    font-weight: 700;
+}
+.leftIco{
+    width: 7px;
+    height: 84px;
+    background: url("img/fourCircles.png") no-repeat;
+    position: absolute;
+    margin-top: -14px;
+    margin-left: -71px;
+}
+.text{
+    color: #92a1a5;
+    font-size: 14px;
+    font-weight: 400;
+}
+.transformText{
+    width: 14px;
+    height: 118px;
+    background: url("img/rotateText.png") no-repeat;
+    margin-left: -90px;
+    margin-top: 160px;
+}
