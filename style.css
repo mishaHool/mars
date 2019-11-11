@@ -1,6 +1,7 @@
 html{
     margin-left: -7px;
-    overflow-x: hidden ;
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
 }
 .title{
     width: 83px;
@@ -67,4 +68,30 @@ html{
     background: url("img/rotateText.png") no-repeat;
     margin-left: -90px;
     margin-top: 160px;
+}
+.thrImg{
+    width: 1518px;
+    height: 467px;
+    background: url("img/thrImg.png") no-repeat;
+    margin: 0 auto;
+    background-size: contain;
+    display: flex;
+}
+.leftTextThrImg{
+    margin-top: 175px;
+    margin-left: 112px;
+}
+.centerTextThrImg{
+    color: white;
+    font-size: 60px;
+    margin-top: 139px;
+    font-weight: 700;
+    margin-left: 60px;
+}
+.rightTextThrImg{
+    width: 57px;
+    height: 398px;
+    background: url("img/fstButt.png") no-repeat;
+    margin-top: 68px;
+    margin-left: 440px
 }
