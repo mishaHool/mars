@@ -95,3 +95,78 @@ html{
     margin-top: 68px;
     margin-left: 440px
 }
+.fourImg{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.tit{
+    font-size: 48px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.fst{
+    width: 91px;
+    height: 91px;
+    background: url("img/drone.png") no-repeat;
+    padding-top: 127px;
+}
+.fst::before{
+    display: block;
+    content: 'New techology';
+    width: 226px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: -60px;
+}
+.sec{
+    width: 91px;
+    height: 91px;
+    background: url("img/signal.png") no-repeat;
+    padding-top: 127px;
+    margin-left: 210px;
+}
+.sec::before{
+    display: block;
+    content: 'Good signal';
+    width: 226px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: -60px;
+}
+.thr{
+    width: 91px;
+    height: 91px;
+    background: url("img/pult.png") no-repeat;
+    padding-top: 127px;
+    margin-left: 180px;
+}
+.thr::before{
+    display: block;
+    content: 'Easy to use';
+    width: 226px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: -60px;
+}
+.fou{
+    width: 91px;
+    height: 91px;
+    background: url("img/map.png") no-repeat;
+    padding-top: 127px;
+    margin-left: 180px;
+}
+.fou::before{
+    display: block;
+    content: 'Visibility';
+    width: 226px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: -60px;
+}
