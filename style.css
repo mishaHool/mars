@@ -179,10 +179,27 @@ html{
     padding-top: 167px;
 }
 .txt{
-    font-size: 92px;
+    font-size: 84px;
     color: white;
-    margin-left: 640px;
+    margin-left: 725px;
 }
 span{
     color: red;
+}
+.buttt{
+    width: 182px;
+    height: 57px;
+    border-radius: 29px;
+    border: 2px solid #3b3b3b;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    margin-left: 760px;
+    cursor: pointer;
+}
+a{
+    color: white;
+    text-decoration: none;
 }
