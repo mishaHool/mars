@@ -170,3 +170,19 @@ html{
     font-weight: bold;
     margin-left: -60px;
 }
+.generation{
+    width: 1656px;
+    height: 321px;
+    background: url("img/generation.png") no-repeat;
+    background-size: contain;
+    margin: 0 auto;
+    padding-top: 167px;
+}
+.txt{
+    font-size: 92px;
+    color: white;
+    margin-left: 640px;
+}
+span{
+    color: red;
+}
