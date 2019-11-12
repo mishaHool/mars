@@ -96,9 +96,10 @@ html{
     margin-left: 440px
 }
 .fourImg{
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: column; */
+    margin: 0 auto;
 }
 .tit{
     font-size: 48px;
