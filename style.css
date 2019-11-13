@@ -257,3 +257,28 @@ a{
     border-color: white;
     margin-left: 650px;
 }
+.bot{
+    width: 1518px;
+    margin: 0 auto;
+}
+.back{
+    text-shadow: 8px 14px 95px rgba(0, 0, 0, 0.05);
+    font-size: 203px;
+    font-weight: 700;
+    color: white;
+    margin-left: 240px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.bot .title{
+    margin-top: -310px;
+    position: absolute;
+    margin-left: 751px;
+
+}
+.ttxt{
+    color: #92a1a5;
+    position: absolute;
+    margin-top: -260px;
+    margin-left: 590px;
+}
