@@ -234,3 +234,25 @@ a{
     position: absolute;
     margin-top: -160px;
 }
+.journey{
+    width: 1578px;
+    height: 270px;
+    background: url("img/journey.png") no-repeat;
+    background-size: contain;
+    margin: 0 auto;
+    padding-top: 700px;
+}
+.titttt{
+    color: white;
+    font-size: 92px;
+    font-weight: 700;
+    margin-left: 370px;
+    margin-top: -170px;
+    margin-bottom: 158px;
+}
+.journey .buttt{
+    background: white;
+    color: #318f76;
+    border-color: white;
+    margin-left: 650px;
+}
